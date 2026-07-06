@@ -14,12 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Default Local Group
   m_GUID: 4ad813415bbf1954cba6c0e07132f923
-  m_SerializeEntries:
-  - m_GUID: e104153b924ea7e40ac2774b781a4e64
-    m_Address: Assets/Canvas.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: e998bcfaf03d72446ad553b1dd8c2aab, type: 2}
   m_SchemaSet:
